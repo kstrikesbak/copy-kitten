@@ -2,14 +2,17 @@
     color: white;
     background-color:rgba(0,183,255,1);
     border: none;
-    padding: 30px;
+    border-radius: 25px;
+    padding: 80px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 200px;
-    margin: 4px 2px;
+    font-size: 150px;
+    margin: 20px 20px 20px;
 }
-
+#button:hover {
+    background-color:red;
+}
 .container {
     text-align: center;
 }

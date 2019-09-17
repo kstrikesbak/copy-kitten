@@ -20,3 +20,7 @@
     padding: 100px;
 
 }
+
+#nav:hover {
+    background-color:red;
+}

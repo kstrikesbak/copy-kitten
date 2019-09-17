@@ -1,10 +1,12 @@
-.table {
-    padding: 100px;
+#table {
+    letter-spacing: 50px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    font-size: 150px;
     text-align: center;
-    background:lightblue;
-    color: white;
-    font-size: 100px;
-    position: center;
-    
+    background-color: whitesmoke;
+
 
 }
